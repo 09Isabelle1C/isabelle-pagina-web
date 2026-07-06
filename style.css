@@ -15,10 +15,19 @@ main{
     color: #421657;
     margin: 0 auto;
     padding: 16px;
+
+    display: flex;
 }
 
 article{
     display: flex;
+
+    border: 1px solid #421657;
+
+
+    margin: 16px;
+    gap: 16px;
+    padding: 16px;
 }
 
 img{
